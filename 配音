@@ -1,0 +1,5 @@
+# 在本地操作
+git clone https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+git checkout -b yourname-patch
+# 修改文件后推送
+git push origin yourname-patch
